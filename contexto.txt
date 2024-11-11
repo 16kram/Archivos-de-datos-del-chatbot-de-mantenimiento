@@ -15,4 +15,5 @@ Hay salas de reuniones en la planta de torre alta, uno,dos, siete y diecisiete. 
 Los armarios de los ascensores de torre alta A,B,C,D se encuentran en la diecisiete, los de torre baja en la planta 10, a,b,c,d los de los ascensores E y F de torre alta estan en la planta seis.
 Hay dos gondolas una en la cubierta de torre alta y otra en torre baja.
 Hay dos SAIs uno esta en la planta del altillo y es el sai de usuarios, y el otro está en la cuarta planta de torre baja.
+El sistema de alumbrado de las plantas 1 a la 17 tanto en torre baja, como en torre alta funciona mediante KNX, excepto en torre baja uno que funciona mediante detectores de presencia. el alumbrado es led, este lleva un driver, y está manejado por dispositivos DALI KNX, el cual esta conectado a entradas binarias, las cuales son accionadas mediante pulsadores. El alumbrado de parking funciona mediante fluorescentes de 36W. En planta baja solo la sala de visitas funciona con KNX, el resto es led pero solo con driver. Existen dos controladores espace lynx para visualizar por web el estado de las luminarios, estos estan ubicados en la planta 2 de torre baja y otro en la planta 2 de torre alta.
 
