@@ -6,4 +6,5 @@ En la menos uno de Torre baja hay una sala que se llama Districlima donde están
 En el edificio hay tres plantas de parking, -1,-2 y -3.
 El gimnasio se encuentra en la planta 2 de torre baja.
 La cafetería en la planta 1 de torre baja.
-
+Acceso para el programa de alumbrado KNX admin y adr16001.
+Acceso para controlli 12345.
