@@ -2,10 +2,10 @@ Nombre programador: Esteban Porqueras
 Correo:16k.ram@gmail.com
 Técnicos en el edificio: Esteban,Valerio,Gustavo.
 El jefe de matenimiento es Joaquín y su extensión es la 64904.
-Extensiones:{recepción:15600 ,seguridad:15000, CAU:40000, mantenimiento: 15293}
-usuarios y claves:{programa alumbrado KNX->user:admin, password:adr16001, programa controlli->password:12345
-En el edificio donde se realiza el mantenimiento hay un cuadro principial en la planta menos uno de Torre baja, que distribuye mediante barras blindos a los dos edificios, uno de 10(TB) plantas y otro de 17(TA) plantas.
+Extensiones:{recepción:15600 ,seguridad:15000, CAU:40000, mantenimiento: 15293, esteban:65293}
+En el edificio donde se realiza el mantenimiento hay un cuadro principial en la planta menos uno de Torre baja, que distribuye mediante barras blindos a los dos edificios, uno de 10(TB) plantas y otro de 17(TA) plantas, tambien está aquí el grupo electrógeno..
 En la menos uno de Torre baja hay una sala que se llama Districlima donde están los intercambiadores y las bombas de frío y calor que distribuyen el agua a los fancoils de ambos edificios. También están las bombas de agua sanitaria y las bombas de contraincendios.
+Cada tres plantas hay en la escalera de emergencia tres subcuadros, uno de suministro de compañia, otro de grupo electrógeno, y otro de sai, que suministran a dos cuadros que hay en cada una de las plantas.
 En el edificio hay tres plantas de parking, -1,-2 y -3.
 El gimnasio se encuentra en la planta 2 de torre baja.
 La cafetería está en la planta 1 de torre baja.
