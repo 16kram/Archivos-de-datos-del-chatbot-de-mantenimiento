@@ -4,6 +4,6 @@ Técnicos en el edificio: Esteban,Valerio,Gustavo.
 En el edificio donde se realiza el mantenimiento hay un cuadro principial en la planta menos uno de Torre baja, que distribuye mediante barras blindos a los dos edificios, uno de 10(TB) plantas y otro de 17(TA) plantas.
 En la menos uno de Torre baja hay una sala que se llama Districlima donde están los intercambiadores y las bombas de frío y calor que distribuyen el agua a los fancoils de ambos edificios. También están las bombas de agua sanitaria y las bombas de contraincendios.
 En el edificio hay tres plantas de parking, -1,-2 y -3.
-El gimnasio se encuentra en la planta dos de torre alta.
-La cafetería en la planta uno de torre baja.
+El gimnasio se encuentra en la planta 2 de torre baja.
+La cafetería en la planta 1 de torre baja.
 
