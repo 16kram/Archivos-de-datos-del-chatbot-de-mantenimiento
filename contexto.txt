@@ -7,4 +7,4 @@ En el edificio hay tres plantas de parking, -1,-2 y -3.
 El gimnasio se encuentra en la planta 2 de torre baja.
 La cafetería está en la planta 1 de torre baja.
 Los fancoils tienen dos válvulas de dos vias, una de frío y una de calor. El actuador se debe de dejar en la posición 3, y el caudal de la valvula en posición 3.
-
+el jefe de mantenimiento se llama Joaquín y su extensión es la 64904.
