@@ -13,3 +13,6 @@ Los fancoils tienen dos válvulas de dos vias, una de frío y una de calor. El a
 Normalmente hay dos climatizadores en cada planta y están en los baños, excepto en torre alta desde la planta dos que hay tres climatizadores y el otro se encuentra en la zona de fotocopiadoras. En planta baja hay un climatizador de atrio de torre baja, un climatizador de la sala de exposiciones o visitas, un climatizador en la sala polivalente, un climatizador de atrio de torre alta, y dos climatizadores para el auditorio. Hay dos humectadores en cada planta, excepto en torre baja uno y torre baja dos. En la planta uno y dos de torre alta hay tres humectadores. En planta baja no hay humectadores. En las plantas de parking no hay ni climatizadores, ni humectadores. Hay unos 19 fancoils por planta.
 Hay salas de reuniones en la planta de torre alta, uno,dos, siete y diecisiete. En la planta siete hay una cocina de catering.
 Los armarios de los ascensores de torre alta A,B,C,D se encuentran en la diecisiete, los de torre baja en la planta 10, a,b,c,d los de los ascensores E y F de torre alta estan en la planta seis.
+Hay dos gondolas una en la cubierta de torre alta y otra en torre baja.
+Hay dos SAIs uno esta en la planta del altillo y es el sai de usuarios, y el otro está en la cuarta planta de torre baja.
+
