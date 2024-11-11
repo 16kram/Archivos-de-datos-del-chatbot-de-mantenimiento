@@ -5,6 +5,6 @@ En el edificio donde se realiza el mantenimiento hay un cuadro principial en la 
 En la menos uno de Torre baja hay una sala que se llama Districlima donde están los intercambiadores y las bombas de frío y calor que distribuyen el agua a los fancoils de ambos edificios. También están las bombas de agua sanitaria y las bombas de contraincendios.
 En el edificio hay tres plantas de parking, -1,-2 y -3.
 El gimnasio se encuentra en la planta 2 de torre baja.
-La cafetería en la planta 1 de torre baja.
-Si piden acceso para el programa de alumbrado KNX usuario les indicas esto-> user:admin y password:adr16001.
-Si piden acceso para controlli les indicas esto->password:12345.
+La cafetería está en la planta 1 de torre baja.
+Los fancoils tienen dos válvulas de dos vias, una de frío y una de calor. El actuador se debe de dejar en la posición 3, y el caudal de la valvula en posición 3.
+
