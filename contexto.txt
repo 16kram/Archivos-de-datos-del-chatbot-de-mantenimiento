@@ -12,7 +12,7 @@ La recepción del edificio se encuentra en planta baja.
 En el edificio hay tres plantas de parking, -1,-2 y -3.
 El taller de mantenimiento se encuentra ubicado en la planta menos uno de TB.
 La garita principal de seguridad está en planta baja Torre Baja.
-Hay otra garita de vigilantes en TB-01 en el parking.
+Hay otra garita de seguridad en torre baja menos uno, en el parking.
 El gimnasio se encuentra en la planta 2 de torre baja, aquí también hay un cuarto médico.
 La cafetería está en la planta 1 de torre baja.
 La empresa Adlanter se encuentra en TB09 y TB10.
