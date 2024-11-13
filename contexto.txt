@@ -10,6 +10,7 @@ TA=Torre alta.
 Por ejemplo, TB05, es Torre baja planta número 5 y TA07 es Torre Alta planta númrto 7.
 La recepción del edificio se encuentra en planta baja.
 En el edificio hay tres plantas de parking, -1,-2 y -3.
+El taller de mantenimiento se encuentra ubicado en la planta menos uno de TB.
 El gimnasio se encuentra en la planta 2 de torre baja.
 La cafetería está en la planta 1 de torre baja.
 La empresa Adlanter se encuentra en TB09 y TB10.
@@ -31,3 +32,6 @@ Normalmente hay dos climatizadores en cada planta y están en los baños, except
 
 El sistema de alumbrado de las plantas 1 a la 17 tanto en torre baja, como en torre alta funciona mediante KNX, excepto en torre baja uno que funciona mediante detectores de presencia. el alumbrado es led, este lleva un driver, y está manejado por dispositivos DALI KNX, el cual esta conectado a entradas binarias, las cuales son accionadas mediante pulsadores. El alumbrado de parking funciona mediante fluorescentes de 36W. En planta baja solo la sala de visitas funciona con KNX, el resto es led pero solo con driver. Existen dos controladores espace lynx para visualizar por web el estado de las luminarios, estos estan ubicados en la planta 2 de torre baja y otro en la planta 2 de torre alta.
 
+Las válvulas del fancoil de seguridad en planta baja están ubicadas en el cuarto de mensajería, encima de la ventana.
+
+Las compuertas cortafuegos de los climatizadores suelen estar ubicadas en los pasillos de las plantas y en el vestibulo de los ascensores, normalmente hay 8 por planta.
