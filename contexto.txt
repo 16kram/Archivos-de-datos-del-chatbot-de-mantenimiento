@@ -36,5 +36,5 @@ El sistema de alumbrado de las plantas 1 a la 17 tanto en torre baja, como en to
 
 Las válvulas del fancoil de seguridad en planta baja están ubicadas en el cuarto de mensajería, encima de la ventana.
 
-Las compuertas cortafuegos de los climatizadores suelen estar ubicadas en los pasillos de las plantas y en el vestibulo de los ascensores, normalmente hay 8 por planta, la tensión se corta desde los cuadros de planta.
+Las compuertas cortafuegos de los climatizadores suelen estar ubicadas en los pasillos de las plantas y en el vestibulo de los ascensores, normalmente hay 8 por planta, la tensión se corta desde los cuadros de planta. Si hacen ruido tipo clac clac indica que la compuerta está averiada y se tiene que sustituir.
 
