@@ -17,7 +17,7 @@ El gimnasio se encuentra en la planta 2 de torre baja, aquí también hay un cua
 La cafetería está en la planta 1 de torre baja.
 La empresa Adlanter se encuentra en TB09 y TB10.
 Hay dos gondolas una en la cubierta de torre alta y otra en la cubierta de torre baja.
-Hay dos SAIs uno esta en la planta del altillo y es el sai de usuarios, y el otro está en la cuarta planta de torre baja, alli también se encuentra el CPD y un cuarto de climatización del CPD.
+Hay dos SAIs uno esta en la planta del altillo y es el sai de usuarios, y el otro está en la cuarta planta de torre baja y alimenta los servidores del CPD y un cuarto de climatización del CPD.
 Hay salas de reuniones en la planta de torre alta, uno,dos, siete y diecisiete. En la planta siete hay una cocina de catering.
 El patinillo está ubicado en las escaleras de emergencias.
 Los armarios de control de los ascensores de torre alta A,B,C,D se encuentran en la diecisiete(su cuadro principal en la esc. de emergencias de TA16), los de torre baja en la planta 10, a,b,c,d(su cuadro principal en la esc. de emergencias de TB10) los de los ascensores E y F de torre alta estan en la planta seis(su cuadro principal en la esc. de emergencias TA05).
