@@ -12,6 +12,7 @@ La recepción del edificio se encuentra en planta baja.
 En el edificio hay tres plantas de parking, -1,-2 y -3.
 El gimnasio se encuentra en la planta 2 de torre baja.
 La cafetería está en la planta 1 de torre baja.
+La empresa Adlanter se encuentra en TB09 y TB10.
 
 En el edificio donde se realiza el mantenimiento hay un cuadro principial(sala de baja tensión) en la planta menos uno de Torre baja, que distribuye mediante barras blindos a los dos edificios, uno de 10(TB) plantas y otro de 17(TA) plantas, tambien está aquí el grupo electrógeno y una enfriadora que distribuye agua fría a las camaras frigorificas de la cocina de la menos uno, y las camaras frigoríficas de la planta uno de torre baja.
 
