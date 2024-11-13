@@ -38,4 +38,4 @@ Las válvulas del fancoil de seguridad en planta baja están ubicadas en el cuar
 
 Las compuertas cortafuegos de los climatizadores suelen estar ubicadas en los pasillos de las plantas y en el vestibulo de los ascensores, normalmente hay 8 por planta.
 
-Los grifos de los lavabos funcionan electrónicamente mediante un sensor y cuando se desconfiguran por un corte eléctrico y dejan de funcionar requieren progrmarlos de nuevo.
+Los grifos de los lavabos funcionan electrónicamente mediante un sensor y cuando se desconfiguran por un corte eléctrico y dejan de funcionar requieren programarlos de nuevo. La alimentación de estos grifos viene de los cuadros de las escaleras de emergencia.
