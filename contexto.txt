@@ -42,3 +42,5 @@ Las extracciones del parking se pueden encender manualmente en el cuadro eléctr
 
 Si no hay agua en los lavabos hay que comprobar que tenga tensión el grifo, luego mirar en el cuadro eléctrico del patinillo que está en la escalera de emergencia.
 
+Si las consolas de los ascensores no funcionan hay que revisar los armarios de los asscensores por si hay alguna pia bajada y comprobar si hay alguna pia bajada en el cuadro eléctrico del patinillo, y revisar si hay alguna pia bajada de los blindos.
+
