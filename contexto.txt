@@ -40,3 +40,5 @@ Las compuertas cortafuegos de los climatizadores suelen estar ubicadas en los pa
 
 Las extracciones del parking se pueden encender manualmente en el cuadro eléctrico del parking que esta en la sala de Baja Tensión en la planta TB -01 y tambien desde el SCADA de Controlli.
 
+Si no hay agua en los lavabos hay que comprobar que tenga tensión el grifo, luego mirar en el cuadro eléctrico del patinillo que está en la escalera de emergencia.
+
