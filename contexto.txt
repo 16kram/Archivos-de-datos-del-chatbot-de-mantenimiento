@@ -44,3 +44,5 @@ Si no hay agua en los lavabos hay que comprobar que tenga tensión el grifo, lue
 
 Si las consolas de los ascensores no funcionan hay que revisar los armarios de los asscensores por si hay alguna pia bajada y comprobar si hay alguna pia bajada en el cuadro eléctrico del patinillo, y revisar si hay alguna pia bajada de los blindos.
 
+Si alguien entra a robar llama a seguridad extensión 15000.
+
