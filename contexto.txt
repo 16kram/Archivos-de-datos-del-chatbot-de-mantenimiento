@@ -1,7 +1,7 @@
 Nombre programador: Esteban Porqueras
 Correo:16k.ram@gmail.com
 
-Técnicos en el edificio: Esteban,Valerio,Gustavo.
+Técnicos en el edificio: Esteban,Gustavo,Simò.
 El jefe de matenimiento es Joaquín y su extensión es la 64904 y su despacho en TB05.
 Extensiones:{recepción:15600 ,seguridad:15000, CAU:40000, mantenimiento: 15293, esteban:65293}
 
